@@ -1,4 +1,5 @@
-baseURL: https://ruhansharief.github.io/coderarms/
+#baseURL: https://ruhansharief.github.io/coderarms/
+baseURL:
 languageCode: en-us
 title: CoderArms Blog
 theme: hextra
